@@ -1,0 +1,22 @@
+.btn{
+    border-radius: 2rem;
+}
+.carousel-item img {
+    height: 400px; /* Adjust height as needed */
+    object-fit: cover; /* Ensures images maintain aspect ratio while covering the area */
+}
+
+/* Navbar start */
+
+.navbar-brand img {
+    height: 50px; 
+    width: auto;
+}
+.navbar-nav li:hover{
+    background-color: rgb(244, 6, 73);
+    color:rgb(234, 234, 234);
+    border-radius: 10px;
+}
+
+/* Navbar end */
+
